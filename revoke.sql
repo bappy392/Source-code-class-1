@@ -1,0 +1,1 @@
+REVOKE ALL PRIVILEGES ON bank.`branch` FROM userB@localhost;

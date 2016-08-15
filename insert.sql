@@ -1,0 +1,1 @@
+INSERT INTO bank.`account` VALUES('140','dhaka', 21424545);

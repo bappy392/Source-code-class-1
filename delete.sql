@@ -1,0 +1,1 @@
+DELETE FROM bank.`branch` WHERE branch_name = '140';

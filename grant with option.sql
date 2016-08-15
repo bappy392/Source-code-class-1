@@ -1,0 +1,1 @@
+GRANT PRIVILEGES ON bank.`branch` TO userA@localhost WITH GRANT OPTION;
